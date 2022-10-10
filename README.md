@@ -1,2 +1,3 @@
 # Bike-Rental-Analysis
-This repository contains data analysis aiming on understanding behavior of people renting bikes in Washington D.C.  Analysis here is done for years 2012- September 2022 (based on Capital Bikeshare data).
+Capital Bike Share stores data about bike rentals on [capitalbikeshare-data](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
+Sets are available in zip format. Till the end of 2017, data were grouped in yearly packages, starting from 2018 they are published monthly.
